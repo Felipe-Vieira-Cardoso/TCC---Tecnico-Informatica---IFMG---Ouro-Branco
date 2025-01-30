@@ -1,0 +1,19 @@
+# TCC---Tecnico-Informatica---IFMG---Ouro-Branco
+
+Eu e minha equipe do TCC do curso técnico de Informática, realizamos um site para correção de Redações online. A aplicação conta com funcionalidades para a conta do tipo docente (professor) e a do aluno.
+
+Funcionalidades da conta do Professor:
+- Gerar PDF com as folhas de redação contendo um QRCODE com os dados de cada aluno respectivamente em cada uma. O site utiliza a planilha oferecida pelo usuário contendo estes dados e um modelo de folha base padrão.
+- Corrigir Redações: O site contém diversas funcionalidades para que o professor tenha uma correção aprimorada e fina em cada redação. Um exemplo de funcionallidade é a possíbilidade de baixar uma vista pedagógica da redação, contendo seu espelho e os comentários relacionados a cada competência de avaliação. Ademais, nesta funcionalidade, o site lê o QRCODE da página aberta, identificando assim o aluno e a tarefa a qual a redação pertence, utilizando estas informações na hora de salvar a correção;
+- Redações Corrigidas: O professor tem acesso as Redações as quais já salvou referente a cada tarefa. Nesta funcionalidade, o docente pode selecionar alguma redação corrigida e atualizar a correção, caso necessário. Além disso, é possível baixar um relatório contendo as informações relacionadas a cada aluno de cada redação presente no pacote da tarefa e suas respectivas notas. Outra função é escolher se quer liberar ou não as correções do pacote de tarefa aos alunos.
+- Cadastrar Aluno: O docente tem a capacidade de cadastrar novas contas aos seus alunos.
+- Gerenciar Contas Cadastradas: O professor pode visualizar as contas de seus alunos que já foram cadastradas pelo mesmo, além de poder modificar alguns de seus dados, caso se faça necessário.
+- Perfil: O usuário pode visualizar os dados de sua conta e pode modificar alguns deles.
+
+Funcionalidades da conta do Aluno:
+- Perfil: O usuário pode visualizar os dados de sua conta e pode modificar alguns deles.
+- Visualizar histórico de Correção: O aluno pode visualizar suas redações corrigidas já liberadas para acesso pelos professores. A partir disso, ele pode selecionar a que deseja, entrando na tela de correção e visualizando as marcações feitas pelo corretor em sua redação, as notas de cada competência e os comentários, tanto os personalizados quanto os referentes à cada competência e sua nota.
+
+Este repositório serve como um atalho para o projeto original hospedado em:
+
+👉 [Repositório Original](https://github.com/Redaquick/TCC-Redaquick.git)
